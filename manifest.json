@@ -1,0 +1,9 @@
+{
+	"id": "android-audio-fixer-plugin",
+	"name": "Android Audio Fixer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin fixes audio playback on Android devices.",
+	"author": "Majed6",
+	"isDesktopOnly": false
+}
